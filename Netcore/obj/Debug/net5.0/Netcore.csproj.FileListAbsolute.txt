@@ -38,3 +38,5 @@ F:\DemoNetcore\Netcore\obj\Debug\net5.0\ref\Netcore.dll
 F:\DemoNetcore\Netcore\obj\Debug\net5.0\Netcore.pdb
 F:\DemoNetcore\Netcore\obj\Debug\net5.0\Netcore.genruntimeconfig.cache
 F:\DemoNetcore\Netcore\obj\Debug\net5.0\Netcore.csproj.CopyComplete
+F:\DemoNetcore\Netcore\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\DemoNetcore\Netcore\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
